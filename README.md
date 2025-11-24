@@ -192,8 +192,8 @@ Create a file named `.env` in the root of your project and add your Supabase cre
 
 ```env
 # Supabase Configuration
-VITE_SUPABASE_URL=https://kwhlxodynzrrlouwygiv.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt3aGx4b2R5bnpycmxvdXd5Z2l2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM5MDMwNDksImV4cCI6MjA3OTQ3OTA0OX0.a-SfKukHD2XDP1x_3jVAmAmAjKsqnwvZ01pONnG0rII
+VITE_SUPABASE_URL=
+VITE_SUPABASE_ANON_KEY=
 ```
 
 **Important:**
