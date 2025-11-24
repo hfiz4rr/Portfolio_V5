@@ -2,11 +2,11 @@
 
 Hello everyone\! 👋
 
-Let me introduce myself, I'm **Eki Zulfar Rachman**. On this occasion, I'd like to share the portfolio website project that I've developed.
+Let me introduce myself, I'm **Achmad Hafidzar**. On this occasion, I'd like to share the portfolio website project that I've developed.
 
 ## 🚀 Live Demo
 
-**Website Link:** [https://www.eki.my.id/](https://www.eki.my.id/)
+**Website Link:** [https://www.hafidzar.my.id/](https://www.hafidzar.my.id/)
 
 ## 🛠️ Tech Stack
 
@@ -177,7 +177,7 @@ VALUES ('REPLACE_WITH_YOUR_CERTIFICATE_IMAGE_URL.png');
 
 -- Insert one example comment
 INSERT INTO public.portfolio_comments (content, user_name) 
-VALUES ('Created By Eki Zulfar Rachman', 'ekizr');
+VALUES ('Created By Achmad Hafidzar', 'ekizr');
 
 ```
 
@@ -192,8 +192,8 @@ Create a file named `.env` in the root of your project and add your Supabase cre
 
 ```env
 # Supabase Configuration
-VITE_SUPABASE_URL=your-supabase-url
-VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
+VITE_SUPABASE_URL=https://kwhlxodynzrrlouwygiv.supabase.co
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt3aGx4b2R5bnpycmxvdXd5Z2l2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM5MDMwNDksImV4cCI6MjA3OTQ3OTA0OX0.a-SfKukHD2XDP1x_3jVAmAmAjKsqnwvZ01pONnG0rII
 ```
 
 **Important:**
@@ -237,9 +237,9 @@ We would appreciate it if you decide to use this project. Please include proper 
 
 If you have any questions or need help with the setup, feel free to reach out\!
 
-**Eki Zulfar Rachman**
+**Achmad Hafidzar**
 
-  - Website: [https://www.eki.my.id/](https://www.eki.my.id/)
+  - Website: [https://www.hafidzar.my.id/](https://www.hafidzar.my.id/)
   - GitHub: [EkiZR](https://github.com/EkiZR)
 
 -----
